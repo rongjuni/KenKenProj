@@ -22,7 +22,7 @@ body {
 .grid-items {
   border: 0.1rem solid gray;
   font-size: 2rem;
-  background-color: white;
+  background-color: lightblue;
   position: relative;
   display: flex;
   justify-content: center;
@@ -65,8 +65,10 @@ body {
 .special {
   border: none;
   font-size: 2rem;
+  background-color: lightblue;
 }
 
 .special:hover {
   border: solid gray;
+  background-color: white;
 }
